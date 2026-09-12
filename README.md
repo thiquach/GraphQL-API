@@ -1,6 +1,6 @@
 ﻿# GraphQL-API
  
-I plan to learn GraphQL based on my REST API experience
+Learn GraphQL based on REST API experience
 
 | REST/gRPC concept          | GraphQL equivalent                      |
 | -------------------------- | --------------------------------------- |
@@ -17,7 +17,7 @@ I plan to learn GraphQL based on my REST API experience
 | Service-to-service calls   | Resolver → backend services             |
 | -------------------------- | --------------------------------------- |
 
-The five important concepts are:
+Five important concepts:
 
 Schema and types
 Queries
