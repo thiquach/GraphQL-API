@@ -1,4 +1,4 @@
-﻿# GraphQL-API
+﻿# GraphQL-API Learning Roadmap
  
 Learn GraphQL based on REST API experience
 
